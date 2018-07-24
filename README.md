@@ -9,6 +9,10 @@ m    nithishreddy  manodhar manu
 
 
 
+<<<<<<< HEAD
+manodhar nithih
+nithish manodhar
+=======
 SDBFSJFD FSDHFBSDBFD FJHDBFHDBHDBGHDFKgfhfgfdshghsgfhdg
 
 d
@@ -23,7 +27,8 @@ s
 g
 sdg
 ds
-g
+jghjghjgjgfsvfs
 sdg
 sdgesd
 gsd                         sdgdfghfG
+>>>>>>> master
